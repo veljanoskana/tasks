@@ -1,0 +1,14 @@
+C:\Users\user\Projects\NextSenseTasks\NextSenseTasks\bin\Debug\netcoreapp3.1\NextSenseTasks.exe
+C:\Users\user\Projects\NextSenseTasks\NextSenseTasks\bin\Debug\netcoreapp3.1\NextSenseTasks.deps.json
+C:\Users\user\Projects\NextSenseTasks\NextSenseTasks\bin\Debug\netcoreapp3.1\NextSenseTasks.runtimeconfig.json
+C:\Users\user\Projects\NextSenseTasks\NextSenseTasks\bin\Debug\netcoreapp3.1\NextSenseTasks.runtimeconfig.dev.json
+C:\Users\user\Projects\NextSenseTasks\NextSenseTasks\bin\Debug\netcoreapp3.1\NextSenseTasks.dll
+C:\Users\user\Projects\NextSenseTasks\NextSenseTasks\bin\Debug\netcoreapp3.1\NextSenseTasks.pdb
+C:\Users\user\Projects\NextSenseTasks\NextSenseTasks\obj\Debug\netcoreapp3.1\NextSenseTasks.csproj.AssemblyReference.cache
+C:\Users\user\Projects\NextSenseTasks\NextSenseTasks\obj\Debug\netcoreapp3.1\NextSenseTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Projects\NextSenseTasks\NextSenseTasks\obj\Debug\netcoreapp3.1\NextSenseTasks.AssemblyInfoInputs.cache
+C:\Users\user\Projects\NextSenseTasks\NextSenseTasks\obj\Debug\netcoreapp3.1\NextSenseTasks.AssemblyInfo.cs
+C:\Users\user\Projects\NextSenseTasks\NextSenseTasks\obj\Debug\netcoreapp3.1\NextSenseTasks.csproj.CoreCompileInputs.cache
+C:\Users\user\Projects\NextSenseTasks\NextSenseTasks\obj\Debug\netcoreapp3.1\NextSenseTasks.dll
+C:\Users\user\Projects\NextSenseTasks\NextSenseTasks\obj\Debug\netcoreapp3.1\NextSenseTasks.pdb
+C:\Users\user\Projects\NextSenseTasks\NextSenseTasks\obj\Debug\netcoreapp3.1\NextSenseTasks.genruntimeconfig.cache
