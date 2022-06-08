@@ -22,10 +22,8 @@ namespace NextSenseTasks
 
         public static String Interview(int[] array, int totalTime)
         {
-            // SETTING A FLAG OF TRUE
             bool flag = true;
 
-            // FLAG'S VALUE IS CHANGED TO FALSE IF IT DOESN'T CORRESPOND TO AT LEAST ONE OF THE CONDITIONS
             for (int i = 0; i < array.Length; i++)
             {
                 if (i == 0 || i == 1)
@@ -56,7 +54,6 @@ namespace NextSenseTasks
                 flag = false;
             }
 
-            // PARSING TO DESIRED STRING OUTPUT BASED ON FLAG'S VALUE
             if (flag)
                 return "qualified";
             return "disqualified";
