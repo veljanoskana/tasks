@@ -3,7 +3,7 @@
 namespace NextSenseTasks
 {
 
-    internal class Program
+    internal class Solution
     {
         static void Main(string[] args)
         {
